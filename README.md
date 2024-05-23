@@ -14,3 +14,7 @@ O conjunto de dados utilizado neste projeto contém informações sobre os imóv
 # Técnica Utilizada
 
 A Random Forest é um algoritmo de aprendizado supervisionado baseado em árvores de decisão. Ele opera criando uma "floresta" de árvores de decisão durante o treinamento e fazendo previsões ao calcular a média das previsões de cada árvore individual. A Random Forest é conhecida por sua eficácia em lidar com conjuntos de dados de alta dimensionalidade e por sua resistência ao overfitting.
+
+# Bibliotecas Utilizadas
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Scikitlearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
